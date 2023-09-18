@@ -1,0 +1,1 @@
+INSERT INTO pizza (name, description, price) VALUES('Margherita', 'Clasica Pizza', 9.99);
